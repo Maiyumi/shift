@@ -1,3 +1,4 @@
+
 uma linha de código 
 
 teste
@@ -5,3 +6,11 @@ teste
 Alteração criada no dev
 
 Forçando um conflito
+
+Hello World !!!
+
+uma terceira linha de código .
+
+uma linha no meio
+
+Alteração criada no dev
