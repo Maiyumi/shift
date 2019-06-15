@@ -1,3 +1,7 @@
-Hello World
+uma linha de código 
 
 teste
+
+Alteração criada no dev
+
+Forçando um conflito
